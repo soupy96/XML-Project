@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transcripts xmlns="http://www.fanshawec.ca/programs/W2012" 
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+             xsi:schemaLocation="http://www.fanshawec.ca/programs/W2012 mark1.xsd">
+  <InfoforTranscript>
+    <!-- This is where the documents info is stored -->
+    <Title>Student of Academic Achievement</Title>
+    <InstitutionName>Fanshawe College</InstitutionName>
+    <PrintingDate>2019-11-01</PrintingDate>
+    <StudentName>Damion Levine</StudentName>
+    <StudentIdNumber>123456</StudentIdNumber>
+    <StudentAddress>123 Main Street, Adelaide, ON N1B 2C3</StudentAddress>
+    <InfoforTerm>
+      <!-- This is where the term info is stored -->
+      <TermId>Fall-2017</TermId>
+      <ProgramName>Internet Applications and Web Development</ProgramName>
+      <StudentStatus>In Good Standing</StudentStatus>
+      <TermGPA>2.835</TermGPA>
+      <TermCredits>20.0</TermCredits>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>BUSI-1156</CourseCode>
+        <CourseName>Strategies for Success</CourseName>
+        <CourseCredits>1.0</CourseCredits>
+        <StudentGrade>B+</StudentGrade>
+        <StudentGradePoint>3.5</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1219</CourseCode>
+        <CourseName>Networking Fundamentals for Programmers</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>C+</StudentGrade>
+        <StudentGradePoint>2.5</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1232</CourseCode>
+        <CourseName>Programming Fund for Web Development</CourseName>
+        <CourseCredits>6.0</CourseCredits>
+        <StudentGrade>B</StudentGrade>
+        <StudentGradePoint>3.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1215</CourseCode>
+        <CourseName>Database Fundamentals</CourseName>
+        <CourseCredits>4.0</CourseCredits>
+        <StudentGrade>C</StudentGrade>
+        <StudentGradePoint>2.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1233</CourseCode>
+        <CourseName>Web Server Fundamentals</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>A</StudentGrade>
+        <StudentGradePoint>4.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>WRIT-1043</CourseCode>
+        <CourseName>Reason and Writing 1 for IT</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>C+</StudentGrade>
+        <StudentGradePoint>2.5</StudentGradePoint>
+      </InfoforCourse>
+    </InfoforTerm>
+    <InfoforTerm>
+      <!-- This is where the term info is stored -->
+      <TermId>Winter-2018</TermId>
+      <ProgramName>Internet Applications and Web Development</ProgramName>
+      <StudentStatus>In Good Standing</StudentStatus>
+      <TermGPA>3.19</TermGPA>
+      <TermCredits>20.0</TermCredits>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1148</CourseCode>
+        <CourseName>Web Design</CourseName>
+        <CourseCredits>4.0</CourseCredits>
+        <StudentGrade>A+</StudentGrade>
+        <StudentGradePoint>4.2</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse >
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3114</CourseCode>
+        <CourseName>OOP for Web Development</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>B+</StudentGrade>
+        <StudentGradePoint>3.5</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3091</CourseCode>
+        <CourseName>ASP .NET Programming</CourseName>
+        <CourseCredits>4.0</CourseCredits>
+        <StudentGrade>C</StudentGrade>
+        <StudentGradePoint>2.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3104</CourseCode>
+        <CourseName>Relational Databases and SQL</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>B</StudentGrade>
+        <StudentGradePoint>3.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>MGMT-3052</CourseCode>
+        <CourseName>Understanding Workplace Behaviours</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>C+</StudentGrade>
+        <StudentGradePoint>2.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1167</CourseCode>
+        <CourseName>Business At the Speed of Light</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>A</StudentGrade>
+        <StudentGradePoint>4.0</StudentGradePoint>
+      </InfoforCourse>
+    </InfoforTerm>
+    <InfoforTerm>
+      <!-- This is where the term info is stored -->
+      <TermId>Fall-2018</TermId>
+      <ProgramName>Internet Applications and Web Development</ProgramName>
+      <StudentStatus>In Good Standing</StudentStatus>
+      <TermGPA>2.575</TermGPA>
+      <TermCredits>20.0</TermCredits>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>COMM-3077</CourseCode>
+        <CourseName>Communications for IT</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>B</StudentGrade>
+        <StudentGradePoint>3.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-1131</CourseCode>
+        <CourseName>Graphics</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>A</StudentGrade>
+        <StudentGradePoint>4.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3144</CourseCode>
+        <CourseName>Applied JavaScript Tools and Frameworks</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>C</StudentGrade>
+        <StudentGradePoint>2.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3086</CourseCode>
+        <CourseName>Web Standards</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>C+</StudentGrade>
+        <StudentGradePoint>2.5</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3113</CourseCode>
+        <CourseName>Mobile Web Development</CourseName>
+        <CourseCredits>3.0</CourseCredits>
+        <StudentGrade>A</StudentGrade>
+        <StudentGradePoint>4.0</StudentGradePoint>
+      </InfoforCourse>
+      <InfoforCourse>
+        <!-- This is where the courses info is stored -->
+        <CourseCode>INFO-3106</CourseCode>
+        <CourseName>LAMP 1</CourseName>
+        <CourseCredits>5.0</CourseCredits>
+        <StudentGrade>D</StudentGrade>
+        <StudentGradePoint>1.0</StudentGradePoint>
+      </InfoforCourse>
+    </InfoforTerm>
+  </InfoforTranscript>
+</Transcripts>
